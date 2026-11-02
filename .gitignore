@@ -1,0 +1,8 @@
+# 只保留 board/overlays 的 bit/hwh/manifest，其余全部忽略
+*
+!.gitignore
+!board/
+!board/overlays/
+!board/overlays/*.bit
+!board/overlays/*.hwh
+!board/overlays/manifest.json

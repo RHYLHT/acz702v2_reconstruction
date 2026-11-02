@@ -1,0 +1,11 @@
+{
+  "abi": 1094124033,
+  "part": "xc7z020clg400-1",
+  "clock_mhz": 100,
+  "tools": "Vivado/Vitis HLS 2022.2",
+  "board_tested": false,
+  "sha256": {
+    "mc_acz702v2.bit": "1708ea335a41265f5e7a2479ecf2ff6a9a231d0d9d98155b25d81fd840438311",
+    "mc_acz702v2.hwh": "fe77f618120ed9c32c8579000f802fe4d8667b80bca9c989dfd39a117952f09e"
+  }
+}
